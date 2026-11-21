@@ -1,5 +1,5 @@
 # Ex.No: 6               HOLT WINTERS METHOD
-##YAHOO_STOCK
+###YAHOO_STOCK
 
 ### Date: 21/11/2026
 ### NAME : NITESH BHANDARI K
