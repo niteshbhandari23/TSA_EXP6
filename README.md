@@ -8,7 +8,7 @@
 
 
 ### AIM:
-
+To implement and evaluate the Holt-Winters Exponential Smoothing model in Python on the yahoo_stock dataset using Date as the time index and Volume as the target variable, including monthly resampling, time series decomposition, train-test evaluation, and future volume forecasting.
 ### ALGORITHM:
 1. You import the necessary libraries
 2. You load a CSV file containing daily sales data into a DataFrame, parse the 'date' column as
